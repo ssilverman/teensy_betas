@@ -17,3 +17,7 @@ https://www.pjrc.com/teensy/package_teensy_index.json
 
 https://www.pjrc.com/teensy/td_161-beta1/package_teensy_0.61.1_index.json
 
+## 19-Jun-2026
+
+https://www.pjrc.com/teensy/package_teensy_index.json
+
